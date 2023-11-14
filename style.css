@@ -82,6 +82,7 @@ body {
     border-radius: 8px;
     box-shadow: 0 2px 4px var(--sombra);
     background-color: var(--fondo);
+    gap: 5px;
 }
 
 .card img {
